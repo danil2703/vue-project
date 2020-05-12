@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "login": "lexa47",
+      "email": "lexa@yandex.ru",
+      "password": "lexa47",
+      "name": "Alexey",
+      "tel": "+78784567898",
+      "id": 3
+    },
+    {
+      "login": "anton41",
+      "email": "anton@mail.ru",
+      "password": "anton",
+      "name": "Anton",
+      "tel": "+78774673433",
+      "id": 2
+    },
+    {
+      "id": 1,
+      "login": "danil2703",
+      "email": "danil2703@bk.ru",
+      "name": "Daniil",
+      "tel": "+78789798743",
+      "password": "12345"
+    }
+  ]
+}
